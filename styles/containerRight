@@ -1,0 +1,4 @@
+.containerRight {
+    display: flex;
+    flex-basis: 25%;
+}

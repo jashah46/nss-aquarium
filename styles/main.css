@@ -1,5 +1,6 @@
 @import "./contentContainer";   
-@import "./fishList";
+@import "./containerLeft";
+@import "./containerRight";
 
 
 body {
