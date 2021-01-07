@@ -1,0 +1,9 @@
+@import "./contentContainer";   
+@import "./fishList";
+
+
+body {
+    background-color: rgb(1, 14, 2);
+    color:blue;
+    font-family:cursive;   
+}   

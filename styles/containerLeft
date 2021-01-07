@@ -1,0 +1,11 @@
+.containerLeft {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 40%; 
+    border: 2px blue;
+}
+
+.containerLeft_fishList contentArticle {
+    
+}
