@@ -8,5 +8,22 @@
 
 .containerLeft_fishList contentArticle {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: black;
+    flex-basis: 48%;
+    border: white;
+}
+
+.fishCard_img {
+    width: 25%;
+}
+
+.containerLeft_travelQuotes contentArticle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    flex-basis: 48%;
+    border: white;
 }
