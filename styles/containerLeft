@@ -7,5 +7,6 @@
 }
 
 .containerLeft_fishList contentArticle {
-    
+    display: flex;
+    background-color: black;
 }
