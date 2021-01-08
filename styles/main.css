@@ -8,3 +8,10 @@ body {
     color:blue;
     font-family:cursive;   
 }   
+
+header {
+    display: flex;
+    background-color: slategray;
+    padding: 1px;
+    text-anchor: black;
+}

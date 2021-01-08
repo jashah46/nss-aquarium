@@ -1,6 +1,18 @@
 
 .contentContainer {
-    display: flex;
+  /* border: black 1px solid; */
+  display: flex;
+  border-radius: 5px;
+  padding: 10px;
+
+
+
+
+
+
+/*{
+    flex-wrap: wrap;
     justify-content: space-between;
     background-color: white; 
-}
+    margin: 15px;
+}*/
