@@ -6,12 +6,49 @@
 body {
     background-color: rgb(1, 14, 2);
     color:blue;
-    font-family:cursive;   
+    font-family:'Times New Roman', Times, serif;   
 }   
 
 header {
-    display: flex;
+    display: flex; 
+    justify-content: space-around; 
     background-color: slategray;
+    align-items: center;
+    height: 130px;
+    color: black;
     padding: 1px;
-    text-anchor: black;
+
+}
+
+.header-img {
+    max-width: 10%;
+}
+
+h2 span {
+display: block;
+
+}
+
+nav {
+    display: flex;
+    font-size: large;
+    background-color: darkgoldenrod;
+    justify-content: space-around;
+}
+
+.containerRight {
+    display: flex;
+    justify-content: space-around;
+    height: fit-content;
+    width: fit-content;
+     margin: 2px; 
+    border: 2px ridge blue;
+    background-color: whitesmoke;
+    flex-direction: column; 
+    float: right;
+}
+
+h3 {
+      background-color: salmon;
+      text-align: center;
 }

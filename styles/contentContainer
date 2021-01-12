@@ -1,9 +1,9 @@
 
 .contentContainer {
   /* border: black 1px solid; */
-  display: flex;
+  display: flex; 
   border-radius: 5px;
-  padding: 10px;
+ padding: 10px; 
 
 
 
