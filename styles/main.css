@@ -41,7 +41,7 @@ nav {
     justify-content: space-around;
     height: fit-content;
     width: fit-content;
-     margin: 2px; 
+    margin: 2px; 
     border: 2px ridge blue;
     background-color: whitesmoke;
     flex-direction: column; 
@@ -49,6 +49,6 @@ nav {
 }
 
 h3 {
-      background-color: salmon;
-      text-align: center;
+    background-color: salmon;
+    text-align: center;
 }
