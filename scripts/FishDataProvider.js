@@ -2,7 +2,7 @@ const fishCollection = [
     {
     name: "Bart",
     food: "crustaceans",
-	Color: "red",
+	color: "red",
 	home:  "reef",
 	species: "Simpson",
     }, 
