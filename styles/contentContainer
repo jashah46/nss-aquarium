@@ -2,7 +2,7 @@
 .contentContainer {
   /* border: black 1px solid; */
   display: flex;
-  border-radius: 5px;
+git merge master  border-radius: 5px;
  padding: 10px; 
 
 
