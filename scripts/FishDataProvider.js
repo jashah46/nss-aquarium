@@ -4,7 +4,8 @@ const fishCollection = [
     food: "crustaceans",
 	color: "red",
 	home:  "reef",
-	species: "Simpson",
+    species: "Simpson",
+    length: 5,
     }, 
     {
     name: "Homer",
@@ -12,6 +13,7 @@ const fishCollection = [
     color: "yellow",
     home:  "Spring River",
     species: "father",
+    length: 3,
     },
     {
     name: "Iron Man",
@@ -19,6 +21,7 @@ const fishCollection = [
     color: "red",
     home:  "NYC",
     species: "Avengers",
+    length: 7,
     },
     {
     name:  "Marlin",
@@ -26,13 +29,15 @@ const fishCollection = [
     color: "gray",
     home: "Great Barrier Reef, Australia",
     species: "Amphiprioninae",
+    length: 10,
     },
-    {
+    { 
     name: "Nemo",
     food: "seafood",
     color: "Red and Yellow",
     home:  "Great Barrier Reef, Australia",
     species: "Amphiprioninae",
+    length: 15,
 }
 ]
 export const useFish = () => {
